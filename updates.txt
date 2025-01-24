@@ -3,12 +3,12 @@
 [Update]
 Name = sistema
 ProductVersion = 1.0.4.0
-URL = https://github.com/bernardoph19/sistemaversiones/blob/master/Sistema.exe
+URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/Sistema.exe
 Size = 8562886
-SHA256 = 6A44CC98136160532E2540BEC7A7E0CD6BD2DE492DFAA29915387BB34B708614
-MD5 = f163a9f295c0937e20149fddf87ff61d
+SHA256 = 3CA900B01088F60476B1398E88E28643BC953A409D67F352ADB97766A62BF679
+MD5 = 894fde8f42afdd34579eb909d3e4c1ec
 ServerFileName = Sistema.exe
 Flags = Critical|Os64
 RegistryKey = HKUD\Software\INNOVATED S.A.C\sistema\Version
 Version = 1.0.4.0
-Description = nuevos cambios version 1.0.4
+Description = nueva actualizacion de pruebas 
