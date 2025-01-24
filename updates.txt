@@ -1,15 +1,15 @@
 ;aiu;
 
 [Update]
-Name = update
-ProductVersion = 1.0.2.0
-URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/SISTEMAPRUEVAS.exe
-Size = 13827488
-SHA256 = 91C4E733A8A80741E88499F885101B8B47971A75E1B3C7B5DFBB6FB68681F3E8
-MD5 = 9145e0cb6c18c768021e423b1ffdab5d
-ServerFileName = SISTEMAPRUEVAS.exe
+Name = FT ACTUALIZADOR
+ProductVersion = 1.0.1.0
+URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/FTACTUALIZADOR.exe
+Size = 14124991
+SHA256 = D63D8C1CA8A40D53D73C0CB4509017788A62D75AE0100423833AA38984AE135C
+MD5 = ff1b9fdab64f8594b956a7fd0d25bbf8
+ServerFileName = FTACTUALIZADOR.exe
 Flags = Critical|Os64
-RegistryKey = HKUD\Software\INNOVATED S.A.C\update\Version
-Version = 1.0.2.0
-Description = NUEVO CAMBIOS
-Feature = NUEVA ACTUALZIACION
+RegistryKey = HKUD\Software\COOPORACION TECNOLOGICA INNOVATED S.A.C\FT ACTUALIZADOR\Version
+Version = 1.0.1.0
+Description = nuevas actualizaciones
+Feature = nuevos cambios
