@@ -1,14 +1,15 @@
 ;aiu;
 
 [Update]
-Name = Sistema
-ProductVersion = 1.0.7.0
-URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/Sistema.exe
-Size = 8563510
-SHA256 = 565C2C5126960E68713DBA50B33045C175BAFFBCD9E234DEF4F4A6F2D2F16CEA
-MD5 = 558b333795c06247498836a212511f35
-ServerFileName = Sistema.exe
+Name = update
+ProductVersion = 1.0.2.0
+URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/SISTEMAPRUEVAS.exe
+Size = 13827488
+SHA256 = 91C4E733A8A80741E88499F885101B8B47971A75E1B3C7B5DFBB6FB68681F3E8
+MD5 = 9145e0cb6c18c768021e423b1ffdab5d
+ServerFileName = SISTEMAPRUEVAS.exe
 Flags = Critical|Os64
-RegistryKey = HKUD\Software\COOPORACIÓN INNOVATED S.A.C\Sistema\Version
-Version = 1.0.7.0
-Description = qfdqfqwfqfq mejoras
+RegistryKey = HKUD\Software\INNOVATED S.A.C\update\Version
+Version = 1.0.2.0
+Description = NUEVO CAMBIOS
+Feature = NUEVA ACTUALZIACION
