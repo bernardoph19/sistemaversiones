@@ -2,13 +2,15 @@
 
 [Update]
 Name = sistema
-ProductVersion = 1.0.4.0
+ProductVersion = 1.0.5.0
 URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/Sistema.exe
-Size = 8562886
-SHA256 = 3CA900B01088F60476B1398E88E28643BC953A409D67F352ADB97766A62BF679
-MD5 = 894fde8f42afdd34579eb909d3e4c1ec
+Size = 8562908
+SHA256 = 5FFBB7529A0500E2983469FA4B3D29A30431DE3A5214646D98332F1D4137CD9C
+MD5 = 9265832094c3f65ea16e5a7111bf7377
 ServerFileName = Sistema.exe
 Flags = Critical|Os64
 RegistryKey = HKUD\Software\INNOVATED S.A.C\sistema\Version
-Version = 1.0.4.0
-Description = nueva actualizacion de pruebas 
+Version = 1.0.5.0
+Description = mejoras en el sistema cambio de colores
+Feature = dqdqwdwq
+Enhancement = dqwd
