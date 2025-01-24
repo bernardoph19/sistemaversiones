@@ -1,14 +1,14 @@
 ;aiu;
 
 [Update]
-Name = sistema
-ProductVersion = 1.0.5.0
+Name = Sistema
+ProductVersion = 1.0.7.0
 URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/Sistema.exe
-Size = 8562908
-SHA256 = 9BA72CFC8E0ADD89570B6F0A7FE7F638374C127631C4FD4C1E8D64B5D71552E8
-MD5 = 2d7e225db8e98e24284e790d667e7e5a
+Size = 8563510
+SHA256 = 565C2C5126960E68713DBA50B33045C175BAFFBCD9E234DEF4F4A6F2D2F16CEA
+MD5 = 558b333795c06247498836a212511f35
 ServerFileName = Sistema.exe
 Flags = Critical|Os64
-RegistryKey = HKUD\Software\INNOVATED S.A.C\sistema\Version
-Version = 1.0.5.0
-Description = mejorasasssss
+RegistryKey = HKUD\Software\COOPORACIÓN INNOVATED S.A.C\Sistema\Version
+Version = 1.0.7.0
+Description = qfdqfqwfqfq mejoras
