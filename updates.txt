@@ -2,13 +2,13 @@
 
 [Update]
 Name = sistema
-ProductVersion = 1.0.3.0
-URL = http://localhost:8080/update/Sistema.exe
-Size = 8562871
-SHA256 = 9B0F015580061ED89E30A219AB7D97C48C14625EB8158A388A5C5AE8402B225B
-MD5 = cbabb0c91420be601688e45a4bdb10bb
+ProductVersion = 1.0.4.0
+URL = https://github.com/bernardoph19/sistemaversiones/blob/master/Sistema.exe
+Size = 8562886
+SHA256 = 5AC8907DD0879AD961DA8F1A581D434D08034B3359C491A46F7C0674C8142723
+MD5 = f4b293f22e8aad050e23bb07a4c35b63
 ServerFileName = Sistema.exe
 Flags = Critical|Os64
-RegistryKey = HKUD\Software\Su Companía\sistema\Version
-Version = 1.0.3.0
-Description = Cambios de color y mejoras del sitio
+RegistryKey = HKUD\Software\INNOVATED S.A.C\sistema\Version
+Version = 1.0.4.0
+Description = NUEVA ACTUALIZACION DE MEJORAS DE COLOR Y FONDO
