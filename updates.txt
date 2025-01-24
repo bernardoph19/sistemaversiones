@@ -1,0 +1,14 @@
+;aiu;
+
+[Update]
+Name = sistema
+ProductVersion = 1.0.3.0
+URL = http://localhost:8080/update/Sistema.exe
+Size = 8562871
+SHA256 = 9B0F015580061ED89E30A219AB7D97C48C14625EB8158A388A5C5AE8402B225B
+MD5 = cbabb0c91420be601688e45a4bdb10bb
+ServerFileName = Sistema.exe
+Flags = Critical|Os64
+RegistryKey = HKUD\Software\Su Companía\sistema\Version
+Version = 1.0.3.0
+Description = Cambios de color y mejoras del sitio
