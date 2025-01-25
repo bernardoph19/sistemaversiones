@@ -1,17 +1,14 @@
 ;aiu;
+
 [Update]
 Name = FT ACTUALIZADOR
-ProductVersion = 2.0.0.0
+ProductVersion = 2.0.1.0
 URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/FTACTUALIZADOR.exe
-Size = 14124969
-SHA256 = A1B2C3D4E5F6...
-MD5 = 1234567890ABCDEF
+Size = 7929255
+SHA256 = DDE360FAB15C8BD8E96F99A577D32F96395756A61B980C9144E8987B62D01851
+MD5 = 9a2d9ff0934b9db7be96070b59dc1157
 ServerFileName = FTACTUALIZADOR.exe
 Flags = Critical|Os64
 RegistryKey = HKUD\Software\COOPORACION TECNOLOGICA INNOVATED S.A.C\FT ACTUALIZADOR\Version
-Version = 2.0.0.0
-<<<<<<< HEAD
-Description = nuevos cambios  este es el archivo
-=======
-Description = Nueva Actualización Proyecto
->>>>>>> 92be73882e97035530ef091010497e83661572f3
+Version = 2.0.1.0
+Description = nuevas actualizaciones
