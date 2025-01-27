@@ -2,13 +2,13 @@
 
 [Update]
 Name = FT ACTUALIZADOR
-ProductVersion = 3.0.2.0
+ProductVersion = 3.0.3.0
 URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/FTACTUALIZADOR.exe
-Size = 8319713
-SHA256 = 25EDB2B359DD891166B4CD710158E5AFDFB08E5D9AB953ED2DBB42318F321D6D
-MD5 = 61d1a7418444b034a9baf0c32bd653a3
+Size = 8319712
+SHA256 = E5D28516F6515786B9B2DEA3200D137E6CB830B5A1ED3E92B27E4B47FD992618
+MD5 = e059c34506f2500770fe49474dcc4eeb
 ServerFileName = FTACTUALIZADOR.exe
 Flags = Critical|Os64
 RegistryKey = HKUD\Software\COOPORACION TECNOLOGICA INNOVATED S.A.C\FT ACTUALIZADOR\Version
-Version = 3.0.2.0
-Description = Nueva Actualización 3.0.2
+Version = 3.0.3.0
+Description = fqwfwqfwqfwq
