@@ -1,14 +1,14 @@
 ;aiu;
 
 [Update]
-Name = FT ACTUALIZADOR
-ProductVersion = 3.0.7.0
-URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/
-Size = 8322410
-SHA256 = 4F157D18FCA51AE906E30C5DC5A46FAA18A9E7E596E2337F92D0C2F4C1C5D984
-MD5 = c9e35420908776d3eeded447e537e188
-ServerFileName = FTACTUALIZADOR.exe
+Name = ACTUALIZADOR
+ProductVersion = 1.0.1.0
+URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/ACTUALIZADOR.exe
+Size = 8080114
+SHA256 = 99FC43C3870F595E524BCB5AB8A2755D36B0CA0F98C4F42F5D244747ECA02722
+MD5 = 85c88374a80676edfea1ce4cca722b2c
+ServerFileName = ACTUALIZADOR.exe
 Flags = Critical|Os64
-RegistryKey = HKUD\Software\COOPORACION TECNOLOGICA INNOVATED S.A.C\FT ACTUALIZADOR\Version
-Version = 3.0.7.0
-Description = fwqfwqfq
+RegistryKey = HKUD\Software\COORPORACIÓN TECNOLOGICA INNOVATED S.A.C\ACTUALIZADOR\Version
+Version = 1.0.1.0
+Description = Primera Actualización Versión: 1.0.1
