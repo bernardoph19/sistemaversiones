@@ -1,5 +1,4 @@
 ;aiu;
-
 [Update]
 Name = FT ACTUALIZADOR
 ProductVersion = 2.0.4.0
@@ -11,4 +10,4 @@ ServerFileName = FTACTUALIZADOR.exe
 Flags = Critical|Os64
 RegistryKey = HKUD\Software\COOPORACION TECNOLOGICA INNOVATED S.A.C\FT ACTUALIZADOR\Version
 Version = 2.0.4.0
-Description = actualización
+Description = actualizaciÃ³n
