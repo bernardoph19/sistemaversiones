@@ -1,5 +1,4 @@
 ;aiu;
-
 [Update]
 Name = ACTUALIZADOR
 ProductVersion = 1.0.5.0
@@ -9,6 +8,6 @@ SHA256 = B536DD1E1A029DC6C0CE01645C2142B71F6043651C3F0639BC4ED64CFCEF89DE
 MD5 = ba77ccce09a1ef6864948ed0d96398a0
 ServerFileName = ACTUALIZADOR.exe
 Flags = Critical|Os64
-RegistryKey = HKUD\Software\COORPORACIÓN TECNOLOGICA INNOVATED S.A.C\ACTUALIZADOR\Version
+RegistryKey = HKUD\Software\COORPORACIÃ“N TECNOLOGICA INNOVATED S.A.C\ACTUALIZADOR\Version
 Version = 1.0.5.0
 Description = pruwbas actualizacon
