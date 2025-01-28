@@ -2,13 +2,13 @@
 
 [Update]
 Name = ACTUALIZADOR
-ProductVersion = 1.0.4.0
+ProductVersion = 1.0.5.0
 URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/master/ACTUALIZADOR.exe
-Size = 8084794
-SHA256 = D79DFE667F44B57695E2AF7CF043A5170C9645DCAE6242EAC31ACE72FDD53EA7
-MD5 = 74fbd433780ba01c70470cf2db056600
+Size = 8084826
+SHA256 = AC907351E7201DCDA2A57AB7BA706DC22CB907CE95A83272A0B9BB2776B4CF71
+MD5 = 927b977feed635877713d29ed7c99468
 ServerFileName = ACTUALIZADOR.exe
-Flags = Critical|Os64
+Flags = Critical|Sys64|Os64
 RegistryKey = HKUD\Software\COORPORACIÓN TECNOLOGICA INNOVATED S.A.C\ACTUALIZADOR\Version
-Version = 1.0.4.0
-Description = Nueva actualizacon
+Version = 1.0.5.0
+Description = MEJORAS
