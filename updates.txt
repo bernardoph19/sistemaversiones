@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = migrafast
+ProductVersion = 1.0.5.0
+URL = https://raw.githubusercontent.com/bernardoph19/sistemaversiones/refs/heads/master/migrafast.exe
+Size = 18531750
+SHA256 = 2D5F33CF9AB73D9557ACEFA64EF3740779D8DE7454A186F71FA4304225F2B982
+MD5 = 03e65167859fa4be2b75b732702d0e95
+ServerFileName = migrafast.exe
+Flags = Os64
+RegistryKey = HKUD\Software\Migrafast\migrafast\Version
+Version = 1.0.5.0
